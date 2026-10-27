@@ -1,0 +1,11 @@
+name: tmf-architect
+description: TM Forum architecture work. Router, traceability, and review loaded together.
+skills:
+  - tmf-router
+  - tmf-traceability
+  - tmf-architecture-review
+instruction: |
+  Route every request through tmf-router first.
+  Load framework skills (tmf-etom, tmf-sid, tmf-functional-framework, tmf-open-apis,
+  tmf-oda, tmf-autonomous-networks, tmf-business-architecture) only when a step needs them.
+  Cite document ID and release for every framework claim. Mark unknowns "verify".
